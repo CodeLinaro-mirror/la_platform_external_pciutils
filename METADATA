@@ -15,7 +15,8 @@ third_party {
   identifier {
     type: "Git"
     value: "https://git.kernel.org/pub/scm/utils/pciutils/pciutils.git"
-    version: "v3.14.0"
+    version: "c6030ae1576b6bf1de9b41f53a9ed76137181d99"
+    closest_version: "v3.14.0"
     primary_source: true
   }
 }
